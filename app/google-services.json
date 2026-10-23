@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "939733098493",
+        "project_id": "romeo-sales",
+        "storage_bucket": "romeo-sales.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:939733098493:android:f94886db7b22518ec7c394",
+                "android_client_info": {
+                    "package_name": "com.romeosales.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAqTo6Hx-gNAEgs6lc8n28rTUNR1WTKacM"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
